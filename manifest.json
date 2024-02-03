@@ -1,0 +1,10 @@
+{
+  "Name": "FishingAcademy",
+  "Author": "SpiralStaircaseProductions",
+  "Version": "1.0.0",
+  "Description": "Disable failing the fishing minigame with the Bamboo Pole to allow actual practice",
+  "UniqueID": "SpiralStaircaseProductions.FishingAcademy",
+  "EntryDll": "FishingAcademy.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
