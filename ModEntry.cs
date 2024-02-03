@@ -17,7 +17,7 @@ namespace FishingAcademy
     {
         const float MIN_FISHING_PROGRESS = 0.1f;
 
-        // Mode entry point
+        // Mod entry point
         public override void Entry(IModHelper helper)
         {
             helper.Events.GameLoop.UpdateTicked += OnUpdateTicked;
